@@ -1,0 +1,22 @@
+# 가상환경
+/venv
+/env
+
+# AUTH
+.env
+config/credentials.json
+config/token.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
